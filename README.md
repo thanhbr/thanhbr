@@ -7,7 +7,7 @@ Web Developer
 Result-oriented Frontend Developer with 3+ years of experience specializing in developing intuitive and efficient user interfaces for comprehensive Sales Management Systems. Proficient in JavaScript, ReactJS, and NextJS. Proven ability to collaborate with cross-functional teams to deliver high-quality and scalable web applications.
 
 * 🌍  I'm based in Vietnam
-* 🖥️  See my portfolio at [My Portfolio](http://thanhbr.pages.dev/)
+* 🖥️  See my portfolio at [My Portfolio](http://thanhbrs.pages.dev/)
 * ✉️  You can contact me at [thanhmtfpt@gmail.com](mailto:thanhmtfpt@gmail.com)
 
 ### Skills
